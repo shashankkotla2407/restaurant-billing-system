@@ -1,0 +1,32 @@
+item_id,item_name,category,price,image
+101,Idli (2 pcs),Morning Tiffins,40,idly.jpg
+102,Dosa, Morning Tiffins,60,dosa.jpg
+103,Poori, Morning Tiffins,70,puri.jpg
+104,Vada, Morning Tiffins,30,default.jpg
+201,Upma,Brunch,50,default.jpg
+202,Pongal,Brunch,60,default.jpg
+203,Vegetable Sandwich,Brunch,80,default.jpg
+204,Masala Omelette,Brunch,90,default.jpg
+301,Vegetable Meals,Lunch,150,default.jpg
+302,Chicken Biryani,Lunch,220,biryani.jpg
+303,Paneer Biryani,Lunch,200,panner.jpg
+304,Curd Rice,Lunch,100,default.jpg
+401,Samosa,Snacks,20,default.jpg
+402,Pakoda,Snacks,40,default.jpg
+403,French Fries,Snacks,80,default.jpg
+404,Tea,Snacks,20,tea.jpg
+405,Coffee,Snacks,30,default.jpg
+501,Chapati (2 pcs),Dinner,60,default.jpg
+502,Vegetable Curry,Dinner,90,default.jpg
+503,Chicken Curry,Dinner,160,default.jpg
+504,Fried Rice,Dinner,140,default.jpg
+505,Noodles,Dinner,130,default.jpg
+506,Biryani,Dinner,240,biryani.jpg
+601,Water Bottle,Beverages,20,default.jpg
+602,Cool Drink,Beverages,40,default.jpg
+603,Fresh Lime Soda,Beverages,50,default.jpg
+604,Tea,Beverages,20,tea.jpg
+605,Coffee,Beverages,30,default.jpg
+606,Chocolate Milkshake,Beverages,90,default.jpg
+607,Strawberry Milkshake,Beverages,90,default.jpg
+608,Vanilla Milkshake,Beverages,85,default.jpg
